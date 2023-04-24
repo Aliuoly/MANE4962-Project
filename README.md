@@ -8,3 +8,7 @@ Uses Griffon Lim algorithm for phase recombination for sound generation also in 
 
 Code snipets taken from https://github.com/musikalkemist/generating-sound-with-neural-networks
 Code snipets taken from https://keras.io/examples/generative/vae/
+
+
+Processed training data https://drive.google.com/drive/folders/1lAnEgGqf_AKToFGqS3v67IHTxViAGM49?usp=sharing
+Final model and results(model 7) https://drive.google.com/drive/folders/1z8kHbJt9NfEiPm0cqH4N9ZMVaP5qaG-v?usp=sharing
